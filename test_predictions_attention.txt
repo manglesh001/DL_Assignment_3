@@ -1,0 +1,82 @@
+Test Accuracy: 43.38%
+
+Input: अंक
+True: ank
+Pred: ank
+
+Input: अंक
+True: anka
+Pred: ank
+
+Input: अंकित
+True: ankit
+Pred: ankit
+
+Input: अंकों
+True: anakon
+Pred: ankon
+
+Input: अंकों
+True: ankhon
+Pred: ankon
+
+Input: अंकों
+True: ankon
+Pred: ankon
+
+Input: अंकोर
+True: angkor
+Pred: ankor
+
+Input: अंकोर
+True: ankor
+Pred: ankor
+
+Input: अंगारक
+True: angaarak
+Pred: angarak
+
+Input: अंगारक
+True: angarak
+Pred: angarak
+
+Input: अंग्रज़ी
+True: angraji
+Pred: angrazi
+
+Input: अंग्रज़ी
+True: angreji
+Pred: angrazi
+
+Input: अंग्रज़ी
+True: angrzi
+Pred: angrazi
+
+Input: अंतः
+True: antah
+Pred: antah
+
+Input: अंतः
+True: antaha
+Pred: antah
+
+Input: अंतर्मुख
+True: antarmukh
+Pred: antarmukh
+
+Input: अंतर्मुख
+True: antmurkh
+Pred: antarmukh
+
+Input: अंतर्मुख
+True: antrmukh
+Pred: antarmukh
+
+Input: अंद्राबी
+True: andrabee
+Pred: andrabi
+
+Input: अंद्राबी
+True: andrabi
+Pred: andrabi
+
